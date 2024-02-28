@@ -4,7 +4,7 @@ var rule = {
   title:'大米星球',
   desc:'https://www.damiq.cc https://dmdyy.vip https://dmxq.net https://www.dmdy.vip https://www.dmdyy.cc/',
   模板:'mxpro',
-  host:'https://dmx4.vip',
+  host:'https://dmflm.com',
   url:'/vodshow/fyclassfyfilter.html',
   searchable:2,
   quickSearch:1,
