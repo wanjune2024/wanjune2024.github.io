@@ -8,7 +8,7 @@
   "影片状态":"状态:&&</div>",
   "数组":"<li>&&</li>",
   "标题":"sTit\"&&</span>",
-  "副标题":"<span>&&<em>",
+  "副标题":"sDes\"&&</span>",
   "图片":"data-echo=\"&&\"",
   "链接":"href=\"&&\"",
   "搜索url":"/index.php?m=vod-search;post;wd={wd}",
