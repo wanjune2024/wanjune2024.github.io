@@ -6,7 +6,7 @@
     // {"key":"csp_Kunyu77","name":"鲲娱[SP]","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Bttwoo","name":"比特[SP]","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_SP360","name":"360[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","电影","豆瓣电影Top250"],"ext":"https://www.czzy.top/"},
+    {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","电影","豆瓣电影Top250"],"ext":"https://www.czys.top/"},
     // {"key":"csp_YQKan","name":"一起看[SP]","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","高清韩剧"]},
     {"key":"csp_Kkys","name":"酷看[SP]","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","连续剧","电影","直播"]},
