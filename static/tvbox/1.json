@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240605.dylib;md5;3195DAB59747F529101E446DE5DBF6BD",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240605.dylib;md5;2909B88C5B5E9EA6DE3EAF3A1B644522",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视榜单","电影榜单"]},
@@ -8,11 +8,10 @@
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","电影","豆瓣电影Top250"],"ext":"https://www.czys.top/"},
     {"key":"csp_Kkys","name":"酷看[SP]","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_TianTian","name":"天天[SP]","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
-    {"key":"csp_VidHub","name":"视频库[SP]","type":3,"api":"csp_VidHub","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","剧集","电影"],"ext":"https://vidhub1.cc"},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","连续剧","电影","直播"]},
     {"key":"csp_YCyz","name":"原创[SP]","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动画","综艺","电视剧","大陆剧","韩剧","美剧","电影"]},
     {"key":"csp_WoGG","name":"故宫[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","玩偶剧集","玩偶电影","配置"],"ext":{"aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","quarkCookie":"http://127.0.0.1:9978/file/fatcat/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
-    {"key":"csp_Nmys","name":"农民[SP]","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/Nmys.json"},
+    {"key":"csp_xbpq_Nmys","name":"🍀农民[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"动漫$4#综艺$3#剧集$2#电影$1"}},
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_Xdys","name":"兄弟[SP]","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","剧集","电影","纪录片"]},
     {"key":"csp_NanGua","name":"南瓜[SP]","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","外剧","电影"]},
