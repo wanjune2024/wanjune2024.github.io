@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240613.dylib;md5;557E28611DC14E0C52E025068FFE2B3B",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240617.dylib;md5;1F74A6A0675ADF9E5CCA3FFFC07CBB70",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视榜单","电影榜单"]},
@@ -11,7 +11,7 @@
     {"key":"csp_Jpys","name":"金牌[SP]","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","连续剧","电影","直播"]},
     {"key":"csp_YCyz","name":"原创[SP]","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动画","综艺","电视剧","大陆剧","韩剧","美剧","电影"]},
-    {"key":"csp_WoGG","name":"故宫[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","玩偶剧集","玩偶电影","配置"],"ext":{"aliToken":"http://127.0.0.1:9978/file/fatcat/token.txt","quarkCookie":"http://127.0.0.1:9978/file/fatcat/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+    {"key":"csp_WoGG","name":"故宫[SP]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","玩偶剧集","玩偶电影","配置"],"ext":{"aliToken":"http://127.0.0.1:9978/file/TVBox/token.txt","quarkCookie":"http://127.0.0.1:9978/file/TVBox/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
     {"key":"csp_xbpq_Nmys","name":"🍀农民[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"动漫$4#综艺$3#剧集$2#电影$1"}},
     {"key":"csp_xbpq_fantuan","name":"🍀饭团[XB]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/xBPQ/fantuan.json"},
     {"key":"csp_Xdys","name":"兄弟[SP]","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["动漫","综艺","剧集","电影","纪录片"]},
@@ -20,7 +20,7 @@
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
     {"key":"csp_Zxzj","name":"在线[SP]","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","categories":["动漫","韩剧","美剧","日剧","电影"]},
     {"key":"csp_xpath_dadagui","name":"达达龟[XP]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/dadagui.json"},
-    {"key":"csp_Lib","name":"LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","剧集","日韩剧","欧美剧","电影"],"ext":"https://www.libvio.pw/"},
+    {"key":"csp_Lib","name":"LIB[SP]","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","剧集","日韩剧","欧美剧","电影"],"ext":"https://www.libvio.cc/"},
     {"key":"drpy_360","name":"360[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/js/360.js"},
     {"key":"drpy_tvyb","name":"云播[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/js/tvyb.js"},
     {"key":"drpy_69mj","name":"69美剧[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/js/69mj.js"},
