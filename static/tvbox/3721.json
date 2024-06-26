@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240622.dylib;md5;F2139713C5B5F28866E742D5B9C4DF8D",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240625.dylib;md5;36D3276905077CA748B7CBD34B7650B4",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/xpath/hd/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/dmxq.js"},
