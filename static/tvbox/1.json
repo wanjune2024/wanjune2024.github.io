@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240625.dylib;md5;36D3276905077CA748B7CBD34B7650B4",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240626.dylib;md5;E84E4A2AE2587A533584D2BB136745AF",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视榜单","电影榜单"]},
