@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240726.dylib;md5;DE4B1FDB4DD8BCBF5218592043FC1A1E",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240802.dylib;md5;EDB69519C6D166DAC496FC989F878A36",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视榜单","电影榜单"]},
@@ -10,7 +10,7 @@
     {"key":"csp_Czsapp","name":"厂长[SP]","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"categories":["动画","国产剧","韩剧","日剧","美剧","纪录片","电影","豆瓣电影Top250"],"ext":"https://czys.pro/"},
     {"key":"csp_Kkys","name":"酷看[SP]","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_TianTian","name":"天天[SP]","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
-    {"key":"csp_Jpys","name":"金牌[SP]","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
+    // {"key":"csp_Jpys","name":"金牌[SP]","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_LiteApple","name":"小苹果[SP]","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","连续剧","电影","直播"]},
     {"key":"csp_FreeOK","name":"FreeOK[SP]","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1,"categories":["少儿","动漫","综艺","电视剧","电影"]},
     {"key":"csp_Ikan","name":"爱看[SP]","type":3,"api":"csp_Ikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","剧集","日韩剧","电影"]},
