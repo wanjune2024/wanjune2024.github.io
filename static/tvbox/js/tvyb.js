@@ -1,7 +1,7 @@
 var rule = {
   title:'TV云播',
   desc:'http://www.hktvyb.vip/',
-  host:'http://www.tvyb03.com',
+  host:'http://www.tvyb05.com',
   homeUrl:'/',
   url:'vod/show/id/fyfilter.html',
   filter_url:'{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.letter}}/page/fypage{{fl.year}}',
