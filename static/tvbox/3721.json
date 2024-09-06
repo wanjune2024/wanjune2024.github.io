@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240802.dylib;md5;EDB69519C6D166DAC496FC989F878A36",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/240906.dylib;md5;21180B70AD0AF0EC2C1FE20C0F3A0154",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/xpath/hd/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/dmxq.js"},
@@ -50,9 +50,10 @@
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"虾米","type":0,"url":"https://jx.m3u8.pw/?url="},
     {"name":"XM","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"咸鱼","type":0,"url":"https://jx.xyflv.cc/?url="}
+    {"name":"咸鱼","type":0,"url":"https://jx.xyflv.cc/?url="},
+    {"name":"云","type":0,"url":"https://jx.yparse.com/index.php?url=","header":{"User-Agent":"okhttp/4.1.0"}}
   ],
-  "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
+  "flags":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩","tudou","imgo","migu","wasu","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},

@@ -62,7 +62,8 @@
     {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"虾米","type":0,"url":"https://jx.m3u8.pw/?url="},
     {"name":"XM","type":0,"url":"https://jx.xmflv.com/?url="},
-    {"name":"咸鱼","type":0,"url":"https://jx.xyflv.cc/?url="}
+    {"name":"咸鱼","type":0,"url":"https://jx.xyflv.cc/?url="},
+    {"name":"云","type":0,"url":"https://jx.yparse.com/index.php?url=","header":{"User-Agent":"okhttp/4.1.0"}}
   ],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","imgo","migu","wasu","bilibili","xigua","m1905","funshion","acfun","m3u8","ku6","56","BYGA"],
   "ijk":[
