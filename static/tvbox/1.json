@@ -5,7 +5,7 @@
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视剧榜单","电影榜单"]},
     {"key":"csp_SP360","name":"360[SP]","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Kuaikan","name":"快看[SP]","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片"]},
-    {"key":"csp_Kanke","name":"看客[SP]","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","娱乐","剧集","电影"]},
+    {"key":"csp_Kanke","name":"看客[SP]","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","娱乐","剧集","影集"]},
     {"key":"csp_SuBaiBai","name":"素白白[SP]","type":3,"api":"csp_SuBaiBai","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫电影","电视剧","国产剧","韩剧","欧美剧","电影"]},
     {"key":"csp_Dyxs","name":"电影先生[SP]","type":3,"api":"csp_Dyxs","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","剧集","电影"]},
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"https://auete.com/"},
