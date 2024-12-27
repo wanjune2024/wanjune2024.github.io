@@ -1,23 +1,6 @@
 {
   "spider":"https://wanjune2024.github.io/static/tvbox/jar/fan.dylib;md5;5187bb3bc6eba66ecb3785abb0d21431",
-  "lives":[
-    // {"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
-    {"name":"YanG•综合","type":0,"url":"https://tv.iill.top/m3u/Gather","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-    {"name":"YanG•直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2},
-    {"name":"YanG•体育","type":0,"url":"https://tv.iill.top/m3u/Sport","ua": "okhttp/3.15","playerType":2},
-    {"name":"范明明•ipv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"YueChan•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"Yoursmile•综合","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"MemoryC•综合","type":0,"url":"https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"肥猫•综合","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"Ray•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"初秋语•电台","type":0,"url":"./radio.txt","playerType":1},
-    {"name":"范明明•电台1","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/fm.m3u","playerType":1},
-    {"name":"范明明•电台2","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u","playerType":1},
-    {"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
-    {"name":"YuanHsing•油管","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}
-  ],
+  "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视剧榜单","电影榜单"]},
     {"key":"csp_NanGua","name":"南瓜[SP]","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"categories":["动漫","综艺","电视剧","外剧","电影"]},
@@ -26,8 +9,11 @@
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","电视剧","电影","其他"]},
     {"key":"csp_TianTian","name":"天天[SP]","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","内地","韩剧","美剧","电影"],"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"https://wanjune2024.github.io/static/tvbox/jar/fix241213.dylib;md5;5d2689468818731b89ee0c08afd05090"},
     {"key":"csp_Jpys","name":"剧评[SP]","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_AppTT","name":"热播[SP]","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","内地","韩剧","美剧","电影"],"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-    {"key":"csp_AppSx","name":"木星[SP]","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["全部","动漫","综艺","电视剧","动画片","电影"],"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
+    {"key":"csp_AppTT_RB","name":"热播[SP]","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","内地","韩剧","美剧","电影"],"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+    {"key":"csp_AppTT_MM","name":"萌米[SP]","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","内地","韩剧","美剧","电影"],"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+    {"key":"csp_AppTT_HS","name":"欢视[SP]","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","内地","韩剧","电影"],"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},    
+    {"key":"csp_AppSx_MX","name":"木星[SP]","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["全部","动漫","综艺","电视剧","动画片","电影"],"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
+    {"key":"csp_AppSx_SB","name":"速播[SP]","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"},
     {"key":"csp_Shark","name":"木头[SP]","type":3,"api":"csp_Shark","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g=","jar":"https://wanjune2024.github.io/static/tvbox/jar/fix241213.dylib;md5;5d2689468818731b89ee0c08afd05090"},
     {"key":"csp_Xdai","name":"现代[SP]","type":3,"api":"csp_Xdai","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"categories":["全部","动漫","综艺","剧集","电影","纪录片"],"ext":"caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXx4ZHlzLnZpcHhkeXMudmlwfHhkeXMudmlweGR5cy52aXB8MTEz","jar":"https://wanjune2024.github.io/static/tvbox/jar/fix241213.dylib;md5;5d2689468818731b89ee0c08afd05090"},
     {"key":"csp_Nmvod","name":"柠檬[SP]","type":3,"api":"csp_Nmvod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","连续剧","电影","纪录片"],"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==","jar":"https://wanjune2024.github.io/static/tvbox/jar/fix241213.dylib;md5;5d2689468818731b89ee0c08afd05090"},
