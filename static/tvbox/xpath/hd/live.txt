@@ -4,12 +4,6 @@ RougeTV,http://edge13.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 RougeTV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 RougeTV,http://event.vedge.infomaniak.com/livecast/event.stream/chunklist.m3u8
 
-30A TV,#genre#
-My999,http://30a-tv.com/my999.m3u8
-Music,http://30a-tv.com/music.m3u8
-Outdoor,http://30a-tv.com/darcizzle.m3u8 
-Celebrity,http://30a-tv.com/sidewalks.m3u8
-
 ## curl -v --user-agent "okhttp/4.0" 'http://adultiptv.net/chs.m3u' -O
 MyCamTV,#genre#
 Anal,http://live.mycamtv.com/anal.m3u8
