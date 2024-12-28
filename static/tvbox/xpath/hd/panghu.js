@@ -4,7 +4,7 @@ var rule = {
   title:'胖虎',
   desc:'https://www.cdnkan.top/',
   模板:'mxpro',
-  host:'https://physvod.com',
+  host:'https://panghuys.com',
   homeUrl:'/',
   url:'/vodshow/fyclassfyfilter.html',
   searchable:2,
