@@ -2,11 +2,12 @@
   "spider":"https://wanjune2024.github.io/static/tvbox/jar/fan.dylib;md5;9136a7f6aec51c5b18e911121774ab5f",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/xpath/hd/live.txt"}],
   "sites":[
+    {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1,"categories":["热播剧集","热门电影","电视筛选","电影筛选","电视剧榜单","电影榜单"]},
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/dmxq.js"},
     {"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/panghu.js"},
     {"key":"lziapi","name":"量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["伦理片","剧情片"]},
     {"key":"ffzyapi","name":"非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["伦理片","剧情片"]},
-    {"key":"iKun","name":"iKun","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["伦理片","剧情片"]}
+    {"key":"iKun","name":"iKun","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["伦理片","剧情片"]},
     {"key":"csp_AList","name":"🅰A网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/Alist.json"},
     {"key":"tv_playlist","name":"📽ビデオ","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/live2mv.js","searchable":0,"quickSearch":0,"ext":"プレイリスト$https://wanjune2024.github.io/static/tvbox/xpath/hd/playlist.txt&&&https://wanjune2024.github.io/static/tvbox/js/lib/live2mv.png"},
     // {"key":"csp_xpath_md1","name":"麻荳1[XP]","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/md1.json"},
