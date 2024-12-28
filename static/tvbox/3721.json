@@ -1,6 +1,6 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/fan.dylib;md5;5187bb3bc6eba66ecb3785abb0d21431",
-  "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"http://我不是.肥猫.live/TV/tvzb.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/fan.dylib;md5;9136a7f6aec51c5b18e911121774ab5f",
+  "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/xpath/hd/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"drpy_dmxq","name":"大米[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/dmxq.js"},
     {"key":"drpy_panghu","name":"胖虎[DR]","type":3,"api":"https://wanjune2024.github.io/static/tvbox/js/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://wanjune2024.github.io/static/tvbox/xpath/hd/panghu.js"},
