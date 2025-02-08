@@ -5,6 +5,7 @@ var rule = {
   desc:'https://www.dami5tv.com https://www.damiq.cc https://dmdyy.vip https://dmxq.net https://www.dmdy.vip https://www.dmdyy.cc/',
   模板:'mxpro',
   host:'https://www.88nfzm47k.wiki',
+  homeUrl:'/index/home.html',
   url:'/vodshow/fyclassfyfilter.html',
   searchable:2,
   quickSearch:1,
