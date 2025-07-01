@@ -2,9 +2,9 @@ muban.mxpro.二级.desc = '.module-info-item:(3)&&Text;;;.module-info-item-conte
 muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
   title:'大米星球',
-  desc:'https://www.dami5tv.com https://www.damiq.cc https://dmdyy.vip https://dmxq.net https://www.dmdy.vip https://www.dmdyy.cc/',
+  desc:'https://dmd5g9.com https://www.dami5tv.com https://www.damiq.cc https://dmdyy.vip https://dmxq.net https://www.dmdy.vip https://www.dmdyy.cc/',
   模板:'mxpro',
-  host:'https://www.88nfzm47k.wiki',
+  host:'https://www.dma7c0l6n4.shop',
   homeUrl:'/index/home.html',
   url:'/vodshow/fyclassfyfilter.html',
   searchable:2,
