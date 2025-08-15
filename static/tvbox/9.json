@@ -26,6 +26,7 @@
     {"name":"Json轮询","type":2,"url":"Sequence"},
     {"name":"巧技1","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
     {"name":"巧技2","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+    {"name":"巧技3","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}},
     {"name":"m3u8TV","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"虾米1","type":0,"url":"https://jx.m3u8.pw/?url="},
     {"name":"虾米2","type":0,"url":"https://jx.xmflv.com/?url="},
@@ -34,7 +35,7 @@
     {"name":"云2","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"HLS","type":0,"url":"https://jx.hls.one/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
   ],
-  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78"],
+  "flags":["1905","爱奇艺","哔哩","哔哩哔哩","乐视","芒果","奇艺","搜狐","腾讯","优酷","bilibili","dbs","iqiyi","letv","m78","m1905","mgtv","mtv","NetFilx","pptv","PPTV","qiyi","qq","QQ","seven","sjs","sohu","tnmb","wasu","yds","youku"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
