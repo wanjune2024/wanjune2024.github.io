@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f0906.jpg;md5;1bb88ce368642e615b1c4ff388501e51",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
@@ -13,8 +13,8 @@
     {"key":"csp_Jpys","name":"文采[SP]","type":3,"api":"csp_JpysGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Zxzj","name":"在线[SP]","type":3,"api":"csp_ZxzjGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","韩剧","日剧","美剧","电影"],"ext":"https://www.zxzjhd.com/"},
     {"key":"csp_Ddrk","name":"低端[SP]","type":3,"api":"csp_DdrkGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"csp_AppTT_MM","name":"萌米[SP]","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA==","categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
-    {"key":"csp_AppTT_RB","name":"热播F[SP]","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU=","categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
+    // {"key":"csp_AppTT_MM","name":"萌米[SP]","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENEIVq+dC1p/Y9uWjuA==","categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
+    {"key":"csp_AppTT_RB","name":"热播[SP]","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU=","categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
     {"key":"csp_AppTT_HS","name":"欢视[SP]","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU=","categories":["动漫","综艺","内地","韩剧","电影"]},
     {"key":"csp_Auete","name":"Auete[SP]","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"https://auete.com/"},
     {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j","jar":"https://wanjune2024.github.io/static/tvbox/jar/fix250711.jpg;md5;54418536dc2a40da4e94437397895d01"},
@@ -35,7 +35,7 @@
     {"name":"云2","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"HLS","type":0,"url":"https://jx.hls.one/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
   ],
-  "flags":["1905","爱奇艺","哔哩","哔哩哔哩","乐视","芒果","奇艺","搜狐","腾讯","优酷","bilibili","dbs","iqiyi","letv","m78","m1905","mgtv","mtv","NetFilx","pptv","PPTV","qiyi","qq","QQ","seven","sjs","sohu","tnmb","wasu","yds","youku"],
+  "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds"],
   "ijk":[
     {"group":"软解码","options":[
       {"category":4,"name":"opensles","value":"0"},
