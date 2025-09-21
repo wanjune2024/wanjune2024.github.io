@@ -40,7 +40,6 @@
     {"name":"HLS","type":0,"url":"https://jx.hls.one/?url=","ext":{"flag":["qq","腾讯","iqiyi","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"奇异","type":1,"url":"http://39.104.230.177:1122/lxjx/myyk.php?url=","ext":{"flag":["iqiyi","qiyi","爱奇艺","奇艺"]}},
     {"name":"肥猫","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","iqiyi","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}
-
   ],
   "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds"],
   "ijk":[
