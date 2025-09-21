@@ -19,8 +19,7 @@
     {"key":"csp_AppTT_HS","name":"欢视","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU=","categories":["动漫","综艺","内地","韩剧","电影"]},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"https://auete.top/"},
     {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j","jar":"https://wanjune2024.github.io/static/tvbox/jar/fix250711.jpg;md5;54418536dc2a40da4e94437397895d01"},
-    {"key":"csp_FirstAid","name":"🚑急救教学","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-    {"key":"csp_Local","name":"📂本地","type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"changeable":0,"filterable":0}
+    {"key":"csp_FirstAid","name":"🚑急救教学","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}}
   ],
   "parses":[
     {"name":"解析聚合","type":3,"url":"Demo"},
