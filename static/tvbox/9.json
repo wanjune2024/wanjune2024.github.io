@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f0917.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f0922.jpg;md5;4fd08ed97a83386bdfa8359b0e276563",
   "lives":[{"name":"live","type":0,"playerType":2,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
@@ -9,7 +9,7 @@
     {"key":"csp_NewCz","name":"厂长","type":3,"api":"csp_NewCzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["全部","国产剧","韩剧","日剧","美剧","华语电影","韩国电影","日本电影","欧美电影","豆瓣电影Top250"]},
     {"key":"csp_LiteApple","name":"苹果","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"]},
     {"key":"csp_Nmyswv","name":"糯米","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"]},
-    {"key":"csp_Sbaibai","name":"白白","type":3,"api":"csp_SbaibaiGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","电视剧","国产剧","韩剧","欧美剧","电影","热门电影","动漫电影","高分电影"]},
+    // {"key":"csp_Sbaibai","name":"白白","type":3,"api":"csp_SbaibaiGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"categories":["动漫","综艺","电视剧","国产剧","韩剧","欧美剧","电影","热门电影","动漫电影","高分电影"]},
     {"key":"csp_YCyz","name":"原创","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"categories":["全部","综艺","电视剧","大陆剧","韩剧","美剧","日剧","电影","原创压制"]},
     {"key":"csp_Jpys","name":"文采","type":3,"api":"csp_JpysGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_AppSxGuard_JY","name":"鲸鱼","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影"],"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"},
