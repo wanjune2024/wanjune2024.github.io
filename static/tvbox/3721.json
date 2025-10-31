@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f251027.jpg;md5;1acb683fd1fb4f2c0492747745f6229a",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f251030.jpg;md5;03d768a3fcf8c977d6ce5db0f6405661",
   "lives":[{"name":"live","type":0,"playerType":1,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/xpath/hd/live.txt"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDouGuard","searchable":0,"quickSearch":0,"filterable":1},
