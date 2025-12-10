@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f251207.jpg;md5;4685db8d54e6ab9d04d635e3666f230e",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f251209.jpg;md5;dca1d3d747bfd41f8124f789acfae162",
   "lives":[{"name":"live","type":0,"playerType":2,"ua":"okhttp/3.15","url":"https://wanjune2024.github.io/static/tvbox/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
@@ -13,7 +13,7 @@
     {"key":"csp_Nmyswv","name":"糯米","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","电视剧","电影","短剧"]},
     {"key":"csp_AppSxGuard_JY","name":"鲸鱼","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动漫","综艺","连续剧","电影"],"ext":"rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"},
     {"key":"csp_AppSxGuard_JZ","name":"橘子","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动漫","综艺","电视剧","电影","纪录片","短剧"],"ext":"rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="},
-    {"key":"csp_AppSxGuard_XF","name":"下饭","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动画片","动漫","综艺","电视剧","电影","短剧"],"ext":"rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="},
+    {"key":"csp_AppSxGuard_XF","name":"下饭","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["动画片","动漫","综艺","电视剧","电影","短剧"],"ext":"rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="},
     {"key":"csp_AppTT_RB","name":"热播","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU=","categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
     {"key":"csp_AppTT_HS","name":"欢视","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT9fFAy5mE5qU=","categories":["动漫","综艺","热播剧","电影"]},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"https://auete.top/"},
