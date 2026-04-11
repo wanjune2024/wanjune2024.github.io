@@ -1,5 +1,5 @@
 {
-  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f260327.jpg;md5;96ea56039dad3f4c0438f9b1f949a66a",
+  "spider":"https://wanjune2024.github.io/static/tvbox/jar/f260409.jpg;md5;596fe0f8b20d34e041cb3727b64ec13e",
   "lives":[{"name":"live","type":0,"url":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[
     {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"filterable":1},
@@ -10,8 +10,8 @@
     {"key":"csp_YCyz","name":"原创","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"categories":["全部","综艺","电视剧","大陆剧","韩剧","美剧","日剧","电影","原创压制"]},
     {"key":"csp_Jpys","name":"文采","type":3,"api":"csp_JpysGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","电视剧","电影"]},
     {"key":"csp_Nmyswv","name":"糯米","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"categories":["动漫","综艺","电视剧","电影","短剧"]},
-    {"key":"csp_AppSxGuard_BK","name":"播客","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["国漫","综艺","剧集","电影","短剧"],"ext":"rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF"},
-    {"key":"csp_AppSxGuard_JQ","name":"剧圈","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["少儿","动漫","综艺","电视剧","电影","纪录片","短剧","同步课堂"],"ext":"rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="},
+    {"key":"csp_AppSxGuard_BK","name":"播客","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["国漫","综艺","剧集","电影","短剧"],"ext":"rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiHrA="},
+    {"key":"csp_AppSxGuard_JQ","name":"剧圈","type":3,"api":"csp_AppSxGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"categories":["少儿","动漫","综艺","电视剧","电影","纪录片","短剧","同步课堂"],"ext":"rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
     {"key":"csp_AppTT_RB","name":"热播","type":3,"api":"csp_AppTTGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"uqGL1bNENExT7/hGxpSE5qU=","categories":["动漫","综艺","内地","韩剧","美剧","电影"]},
     {"key":"csp_Auete","name":"Auete","type":3,"api":"csp_AueteGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","电视剧","电影","其他"],"ext":"https://auete.top/"},
     {"key":"csp_Jpys","name":"金牌","type":3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":1,"categories":["动漫","综艺","电视剧","电影"],"jar":"https://wanjune2024.github.io/static/tvbox/jar/PQ260322.jpg;md5;9c8e45f60d3d413d8b140ec21811deb0"},
